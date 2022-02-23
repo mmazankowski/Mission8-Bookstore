@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matthewmazankowski/Desktop/413-Mission/Missiion8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj": {}
+    "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj": {}
   },
   "projects": {
-    "/Users/matthewmazankowski/Desktop/413-Mission/Missiion8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj": {
+    "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matthewmazankowski/Desktop/413-Mission/Missiion8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj",
+        "projectUniqueName": "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj",
         "projectName": "Mission8-Bookstore",
-        "projectPath": "/Users/matthewmazankowski/Desktop/413-Mission/Missiion8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj",
+        "projectPath": "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj",
         "packagesPath": "/Users/matthewmazankowski/.nuget/packages/",
-        "outputPath": "/Users/matthewmazankowski/Desktop/413-Mission/Missiion8-Bookstore/Mission8-Bookstore/obj/",
+        "outputPath": "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matthewmazankowski/.config/NuGet/NuGet.Config"
