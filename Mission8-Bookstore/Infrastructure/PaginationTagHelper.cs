@@ -7,9 +7,9 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.Routing;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.AspNetCore.Razor.TagHelpers;
-using Mission7_Bookstore.Models.ViewModels;
+using Mission8_Bookstore.Models.ViewModels;
 
-namespace Mission7_Bookstore.Infrastructure
+namespace Mission8_Bookstore.Infrastructure
 {
     [HtmlTargetElement("div", Attributes = "page-blah")]
     public class PaginationTagHelper : TagHelper 

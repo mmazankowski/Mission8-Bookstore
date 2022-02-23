@@ -5,10 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Mission7_Bookstore.Models;
-using Mission7_Bookstore.Models.ViewModels;
+using Mission8_Bookstore.Models;
+using Mission8_Bookstore.Models.ViewModels;
 
-namespace Mission7_Bookstore.Controllers
+namespace Mission8_Bookstore.Controllers
 {
     public class HomeController : Controller
     {

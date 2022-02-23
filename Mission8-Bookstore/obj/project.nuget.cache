@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ly0mQi4QCvutdTR4NUFBAn2pvKJMcACKNxr12Ssr0OMCk/cnKp1TLRqNSGBiWVNW0xDkOh3xkdJixIFmD+uEgg==",
+  "dgSpecHash": "/myLJvnjZESwS8J3tQcCgJUCLwzfwBxghRZBzkTGlnFF4oT3ebZv2S8BXxkycjUzt01ZshaPfcaMNwhUdRypOQ==",
   "success": true,
-  "projectFilePath": "/Users/matthewmazankowski/Desktop/413-Mission/Mission7-Bookstore/Mission7-Bookstore/Mission7-Bookstore.csproj",
+  "projectFilePath": "/Users/matthewmazankowski/Desktop/413-Mission/Missiion8-Bookstore/Mission8-Bookstore/Mission8-Bookstore.csproj",
   "expectedPackageFiles": [
     "/Users/matthewmazankowski/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/matthewmazankowski/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

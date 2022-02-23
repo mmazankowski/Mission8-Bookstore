@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-namespace Mission7_Bookstore.Models
+namespace Mission8_Bookstore.Models
 {
     //interface is a template for a class, not a class s
     public interface iBookstoreRepository

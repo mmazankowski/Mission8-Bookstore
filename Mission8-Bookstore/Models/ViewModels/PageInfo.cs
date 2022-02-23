@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mission7_Bookstore.Models.ViewModels
+namespace Mission8_Bookstore.Models.ViewModels
 {
     public class PageInfo
     {

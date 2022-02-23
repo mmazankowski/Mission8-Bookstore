@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mission7_Bookstore.Models
+namespace Mission8_Bookstore.Models
 {
     public class ErrorViewModel
     {

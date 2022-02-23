@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Mission7_Bookstore.Models;
+using Mission8_Bookstore.Models;
 
-namespace Mission7_Bookstore
+namespace Mission8_Bookstore
 {
     public class Startup
     {

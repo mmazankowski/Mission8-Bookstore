@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Mission7_Bookstore
+namespace Mission8_Bookstore
 {
     public class Program
     {
