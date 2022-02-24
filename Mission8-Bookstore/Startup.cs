@@ -32,7 +32,9 @@ namespace Mission8_Bookstore
                 options.UseSqlite(Configuration["ConnectionStrings:BookstoreDBConnection"]);
             });
 
-            services.AddScoped<iBookstoreRepository, EFBookstoreRepository>(); 
+            services.AddScoped<iBookstoreRepository, EFBookstoreRepository>();
+
+            services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -58,13 +60,24 @@ namespace Mission8_Bookstore
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "Paging",
-                    pattern: "Page{pageNum}",
+                    name: "categorypage",
+                    pattern: "{category}/Page{pageNum}",
                     defaults: new { Controller = "Home", action = "Index" });
 
                 endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    name: "Paging",
+                    pattern: "Page{pageNum}",
+                    defaults: new { Controller = "Home", action = "Index", pageNum = 1 });
+
+                endpoints.MapControllerRoute(
+                    name: "category",
+                    pattern: "{category}",
+                    defaults: new { Controller = "Home", action = "Index", pageNum = 1 });
+
+
+                endpoints.MapDefaultControllerRoute();
+
+                endpoints.MapRazorPages(); 
             });
         }
     }

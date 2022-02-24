@@ -77,3 +77,8 @@
 /Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Mission8-Bookstore.pdb
 /Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Mission8-Bookstore.genruntimeconfig.cache
 /Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Types/Default.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/Shop.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ShopLayout.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
