@@ -33,8 +33,15 @@ using Mission8_Bookstore.Models.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/Views/_ViewImports.cshtml"
+using Mission8_Bookstore.Infrastructure;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8419a91faf2bf57c0da149a33d7f326fdce94095", @"/Views/Shared/Components/Types/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e11d64c253955236856c8d1f9b18242c69ac0b29", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1af89e525a84d57f73f8deca35cab0d168366a1d", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_Types_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<string>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Home", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -68,7 +75,7 @@ using Mission8_Bookstore.Models.ViewModels;
         {
             WriteLiteral("\n");
             WriteLiteral("\n<div class=\"d-grid gap-2\">\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940955088", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940955313", async() => {
                 WriteLiteral("Home");
             }
             );
@@ -104,7 +111,7 @@ using Mission8_Bookstore.Models.ViewModels;
 #line hidden
 #nullable disable
             WriteLiteral("        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940957538", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940957763", async() => {
 #nullable restore
 #line 14 "/Users/matthewmazankowski/Desktop/413-Mission/Mission8-Bookstore/Mission8-Bookstore/Views/Shared/Components/Types/Default.cshtml"
                                                                                              Write(t);

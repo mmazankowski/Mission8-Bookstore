@@ -1,19 +1,15 @@
 ﻿<Properties StartupConfiguration="{5CC8D51B-3BDF-4E42-9196-B8B05BA13C8D}|Mission8_Bookstore">
   <MonoDevelop.Ide.ItemProperties.Mission8-Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Cart.cs">
-    <Files>
-      <File FileName="Pages/Shop.cshtml" Line="20" Column="40" />
-      <File FileName="Pages/Shop.cshtml.cs" Line="24" Column="23" />
-      <File FileName="Models/Cart.cs" Line="35" Column="25" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission8-Bookstore" expanded="True">
             <Node name="Mission8-Bookstore" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Cart.cs" selected="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="UrlExtensions.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Shop.cshtml" expanded="True" />
               </Node>
